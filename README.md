@@ -7,5 +7,5 @@ These days, I work full-time building backend APIs, business tools, and internal
 ### Tech & Tools
 
 *   **Languages:** Python, TypeScript, PHP
-*   **Frontends:** Svelte, React (still learning), SCSS
+*   **Frontends:** Svelte, React (still learning), Knockout, SCSS
 *   **Backends:** FastAPI, Payload, WordPress (sadly), Django
